@@ -1,4 +1,7 @@
 ### Data Prep SF Crime Classification ###
+'''
+Prepares data for modeling (encode categoricals, normalize). 
+'''
 
 import time
 import pandas as pd
